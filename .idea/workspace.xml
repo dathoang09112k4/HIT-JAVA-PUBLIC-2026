@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67b211bc-80f8-4ad3-8799-777805576c5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BTVN_buoi3/BTVN buoi3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi1/Buoi1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi2/Buoi2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buoi3/Buoi3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN buoi3/src/Bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi3/src/Bai1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN buoi3/src/Bai2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi3/src/Bai2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN buoi3/src/Bai3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi3/src/Bai3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN buoi3/src/Bai4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi3/src/Bai4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN buoi3/src/Bai5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi3/src/Bai5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN buoi3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_buoi3/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="67b211bc-80f8-4ad3-8799-777805576c5c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
